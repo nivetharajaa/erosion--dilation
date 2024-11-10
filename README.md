@@ -25,6 +25,7 @@ Display the original, eroded, and dilated images.
 
 ### Program:
 Developed by : Nivetha A
+
 Reg.no : 212222230101
 ```
 # Import the necessary packages
